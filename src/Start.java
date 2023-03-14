@@ -6,6 +6,7 @@ import java.awt.event.*;
  * 
  * @author Daniel
  *
+ * con IDE Eclipse
  */
 public class Start extends JFrame implements ActionListener {
     private JButton[][] buttons;
